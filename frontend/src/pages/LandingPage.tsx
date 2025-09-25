@@ -86,7 +86,7 @@ export const LandingPage = () => {
                         journey today.
                     </p>
                     <Link to="/signup">
-                        <button className="w-48 h-12 rounded-lg bg-green-400 text-white text-lg font-medium">
+                        <button className="w-48 h-12 rounded-lg bg-green-400 text-white text-lg font-medium cursor-pointer">
                             Get Started →
                         </button>
                     </Link>
