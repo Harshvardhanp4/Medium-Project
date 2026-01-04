@@ -8,7 +8,7 @@ export const Quote = () => {
                     "I love this blogging platform! Its easy to use, responsive, and makes writing and reading articles a delightful experience."
                 </div>
                 <div className="max-w-md text-left text-xl font-semibold mt-4">
-                    -Harshvardhan Patil
+                    - Mark Zucherberg
                 </div>
                 <div className="max-w-md text-left text-base font-semibold text-slate-400 pl-2">
                     Student | MitWpu
